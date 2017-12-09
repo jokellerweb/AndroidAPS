@@ -1,4 +1,4 @@
-- [ ] Pairing
+- [x] Pairing
   - [ ] Pairing works with `combo-scripter-v2` branch
 - [ ] Bolusing
   - [ ] Cancelling bolus at various stages and checking error message (if any) and check
